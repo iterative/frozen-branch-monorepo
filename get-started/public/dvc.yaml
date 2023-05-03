@@ -1,6 +1,7 @@
 artifacts:
   mymodel-in-public:
     path: model.pkl
+    type: model
 
 stages:
   prepare:
