@@ -1,3 +1,7 @@
+artifacts:
+  mymodel-in-public:
+    path: model.pkl
+
 stages:
   prepare:
     cmd: python src/prepare.py data/data.xml
